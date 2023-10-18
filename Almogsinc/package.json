@@ -1,0 +1,23 @@
+{
+  "name": "almogsinc",
+  "version": "1.0.0",
+  "description": "a simple function to get a number ane increase it by 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reshaflame/almogsinc.git"
+  },
+  "keywords": [
+    "test",
+    "unusable"
+  ],
+  "author": "Almog Kapach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reshaflame/almogsinc/issues"
+  },
+  "homepage": "https://github.com/Reshaflame/almogsinc#readme"
+}
